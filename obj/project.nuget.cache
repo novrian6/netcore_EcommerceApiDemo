@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "b/n5U8fjS6s=",
+  "success": true,
+  "projectFilePath": "/Users/novanovriansyah/code/.netcore/EcommerceApiDemo/EcommerceApiDemo.csproj",
+  "expectedPackageFiles": [
+    "/Users/novanovriansyah/.nuget/packages/microsoft.aspnetcore.openapi/9.0.5/microsoft.aspnetcore.openapi.9.0.5.nupkg.sha512",
+    "/Users/novanovriansyah/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
